@@ -1,0 +1,21 @@
+<header>
+        <div class="logo col-5 col-t-10 col-m-10">
+            <a style="text-decoration: none;" href="https://cs.mcgill.ca/~ahazim/personal/website.php"> 
+                <img class="logo_img" src="https://cs.mcgill.ca/~ahazim/mini5/assets/soccer_ball.png">
+            </a>
+            <div class="title">Personal website</div>    
+        </div>
+    <nav class="col-7 col-t-2 col-m-2">
+        <div class="nav_links"><a href="?Page=Home">HOME</a></div>
+        <div class="nav_links last_nav"><a href="?Page=Hobbies">HOBBIES</a></div>
+        <div class="menu_icon">
+            <a href="javascript:void(0);" onclick="dropdown()">
+                <img class="hamburger" src="https://cs.mcgill.ca/~ahazim/mini5/assets/menu.png">
+            </a>
+        </div>
+    </nav>
+</header>
+<div id="nav_dropdown" class="nav_dropdown_2 col-12 col-t-12 col-m-12">
+    <div><a href="?Page=Home">HOME</a></div>   
+    <div><a href="?Page=Hobbies">HOBBIES</a></div>   
+</div>

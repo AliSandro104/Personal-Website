@@ -1,0 +1,3 @@
+<footer class="col-12 cols-m-12 col-t-12">
+    <p class="footer_text">Ali Hazime | ali.hazime@mail.mcgill.ca</p>
+</footer>

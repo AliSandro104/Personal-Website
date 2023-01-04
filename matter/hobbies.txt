@@ -1,0 +1,48 @@
+<section>
+    <div class="col-4 col-t-12 col-m-12">
+        <h1 class="section_title">FOOTBALL</h1>
+        <div class="image_div"><img class="football" src="https://cs.mcgill.ca/~ahazim/mini5/assets/cr7_messi.jpg"></div>
+        <div class="div_text">
+            <p class="p_text">
+                Outside of work and school, I am huge fan of football (soccer). I used to play on a local team when I was younger, but now that I have other 
+                priorities, I only play casually with my brothers and friends during the summer. However, this does not prevent me from watching 
+                the football games between the biggest clubs in Europe such as Real Madrid and Barcelona whenever I am free. On a daily basis, I follow
+                football news around the world through social media. 
+            </p>
+        </div>
+    </div>
+    <div class="col-4 col-t-12 col-m-12">
+        <h1 class="section_title">GAMES</h1>
+        <div class="div_text">
+            <h1 class="second_title">The Witcher 3</h1>
+            <p class="p_text">
+                I don't play games often but whenever I feel like relaxing and changing my daily routine, I dive into the world of Witcher 3 as Geralt of Rivia. Until now,
+                I have never found a better RPG game in terms of the plot, the freedom given to the player and the thrills, despite the game releasing seven years ago. 
+                Speaking of which, an upgraded version of the game will be releasing soon.
+            </p>
+                <h1 class="second_title">FIFA</h1>
+            <p class="p_text">
+                If I am looking for a multiplayer game to play with my brothers, FIFA is the way to go not only because I love football but also because it creates a healthy rivalry 
+                between us when playing against each other.
+            </p>
+        </div>
+    </div>
+    <div class="col-4 col-t-12 col-m-12">
+        <h1 class="section_title">Anime</h1>
+        <div class="image_div">
+            <img class="one_piece" src="https://cs.mcgill.ca/~ahazim/mini5/assets/one_piece.jpg">
+            <img class="naruto" src="https://cs.mcgill.ca/~ahazim/mini5/assets/naruto.jpg">
+            <img class="dbz hide_image" src="https://cs.mcgill.ca/~ahazim/mini5/assets/dbz.jpg">
+        </div>
+        <div class="hidden_image_div">
+            <img class="dbz" src="https://cs.mcgill.ca/~ahazim/mini5/assets/dbz.jpg">
+        </div>
+        <div class="div_text">
+            <p class="p_text">
+                I am not the type of person that gets hooked easily on TV shows and movies, so it is hard to convince me to start watching something. Yet, when I had a lot of free time 
+                during my teenagehood, I remember that watching the mainstream animes such as Dragon ball Z, Naruto and One Piece did not disappoint. Since then, I do watch anime once in a while,
+                including One Piece that is still ongoing.
+            </p>
+        </div>
+    </div>
+</section>

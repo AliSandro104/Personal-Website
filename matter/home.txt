@@ -1,0 +1,37 @@
+<section>
+    <div class="col-4 col-t-12 col-m-12">
+        <div class="zoom_in"><figure><img class="my_pic" src="https://cs.mcgill.ca/~ahazim/mini5/assets/me.jpg"></figure></div>
+        <h1 class="name">Ali Hazime</h1>
+        <h3 class="uni">McGill University</h3>
+        <h4 class="job_title">Web developer</h4>
+        <h5 class="email">Email: ali.hazime@mail.mcgill.ca</h5>
+    </div>
+    <div class="col-4 col-t-12 col-m-12">
+        <h1 class="section_title">EDUCATION</h1>
+        <div class="div_text">
+            <h1 class="second_title">McGill University</h1>
+            <p class="p_text">
+                Currently, I am entering the final year of my major in computer science at McGill. <br> During the past three years, 
+                I worked hard to get a solid base in computer science that will surely help me in a web development position. 
+                For instance, I learned the mainstream programming languages such as Python, Java, C and Javascript, the core data structures and algorithms, 
+                software design patterns and finally the basics of unit testing which are all useful both on the server side and on the client side.
+            </p>
+                <h1 class="second_title">Vanier College</h1>
+            <p class="p_text">
+                Prior to my bachelor degree, I completed a 2-year DEC in Health Science at Vanier College.
+            </p>
+        </div>
+    </div>
+    <div class="col-4 col-t-12 col-m-12">
+        <h1 class="section_title">EXPERIENCE</h1>
+        <div class="div_text">
+            <h1 class="second_title">Groupe Technologie Desjardins Inc.</h1>
+            <p class="p_text">
+                From January 2022 to August 2022, I took part in an internship where I was a web developer at Groupe Technologie Desjardins Inc. The main takeaway for me 
+                during my time there was working in an agile team where I had the opportunity to interact with senior developers, analysts, tech leads and 
+                a scrum master. In fact, I was able to see how the work is divided among the different members of the team and how the project was supervised. In terms of tools,
+                I learned how to develop with Angular (frontend) and Java (backend), how to test APIs using Postman and how to write proper unit tests.
+            </p>
+        </div>
+    </div>
+</section>
